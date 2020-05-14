@@ -1,0 +1,14 @@
+body{
+	background-color: #FCE5F8; 
+}
+.stickers{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 150px;
+}
+.audio{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
